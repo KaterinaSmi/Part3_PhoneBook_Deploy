@@ -1,0 +1,9 @@
+### Create a new person
+POST http://localhost:3001/api/persons
+Content-Type: application/json
+
+{
+    "name": "Kate",
+    "number": "92-98-0348923"
+}
+
